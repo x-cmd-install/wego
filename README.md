@@ -7,7 +7,7 @@ weather app for the terminal
 - **Latest release**: `2.4` (2026-04-11)
 - **Last commit**: 2026-04-12
 - **License**: ISC
-- **Stars**: 8547 · **Forks**: 506 · **Open issues**: 135 · **Contributors**: 36
+- **Stars**: 8548 · **Forks**: 506 · **Open issues**: 135 · **Contributors**: 36
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/wego> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:48:34Z._
+_Last regenerated: 2026-09-09T04:51:57Z._
