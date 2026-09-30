@@ -44,22 +44,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,559 · **Forks**: 506 · **Open issues**: 135 · **Contributors**: 36
+- **Stars**: 8,559 · **Forks**: 506 · **Open issues**: 136 · **Contributors**: 36
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 45 · **Open PRs**: 2 · **Closed issues**: 125 · **Open issues**: 10 · **Commits**: 198
+- **Releases**: 5 · **Merged PRs**: 45 · **Open PRs**: 2 · **Closed issues**: 125 · **Open issues**: 11 · **Commits**: 198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 1 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-31 | 0 | 2 | 0 | 0 | 0 | 5 |
-| 90d | 2026-07-01 | 0 | 2 | 0 | 0 | 1 | 5 |
-| last180d | 2026-04-02 | 1 | 16 | 0 | 1 | 2 | 28 |
-| 360d | 2025-10-04 | 1 | 19 | 0 | 1 | 4 | 28 |
-| last720d | 2024-10-09 | 1 | 22 | 2 | 5 | 4 | 29 |
+| 30d | 2026-08-31 | 0 | 1 | 0 | 0 | 1 | 5 |
+| last60d | 2026-08-01 | 0 | 1 | 0 | 0 | 1 | 5 |
+| 90d | 2026-07-02 | 0 | 2 | 0 | 0 | 2 | 5 |
+| last180d | 2026-04-03 | 1 | 16 | 0 | 1 | 3 | 28 |
+| 360d | 2025-10-05 | 1 | 19 | 0 | 1 | 5 | 28 |
+| last720d | 2024-10-10 | 1 | 22 | 2 | 5 | 5 | 29 |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for wego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:48:37Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:46:06Z._
