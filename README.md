@@ -44,7 +44,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,563 · **Forks**: 507 · **Open issues**: 137 · **Contributors**: 36
+- **Stars**: 8,564 · **Forks**: 507 · **Open issues**: 137 · **Contributors**: 36
 
 ## Totals (cumulative)
 
@@ -54,27 +54,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-09-01 | 0 | 1 | 2 | 0 | 2 | 5 |
-| 90d | 2026-08-02 | 0 | 1 | 2 | 0 | 2 | 5 |
-| last180d | 2026-05-04 | 0 | 3 | 2 | 1 | 4 | 5 |
-| 360d | 2025-11-05 | 1 | 19 | 2 | 1 | 6 | 28 |
-| last720d | 2024-11-10 | 1 | 22 | 4 | 5 | 6 | 29 |
-
-## Distribution status
-
-Reported by **47** distros on [repology.org](https://repology.org/project/wego). **27** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.4` | ✅ latest |
-| Debian 14 | `2.4` | ✅ latest |
-| Debian 13 | `2.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.3` | ⚠️ outdated |
-| Homebrew | `2.4` | ✅ latest |
-| Nix unstable | `2.4` | ✅ latest |
-| Void | `2.4` | ✅ latest |
-| Alpine edge | `2.4` | ✅ latest |
+| 30d | 2026-10-02 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-09-02 | 0 | 1 | 2 | 0 | 2 | 5 |
+| 90d | 2026-08-03 | 0 | 1 | 2 | 0 | 2 | 5 |
+| last180d | 2026-05-05 | 0 | 3 | 2 | 1 | 4 | 5 |
+| 360d | 2025-11-06 | 1 | 19 | 2 | 1 | 6 | 28 |
+| last720d | 2024-11-11 | 1 | 22 | 4 | 5 | 6 | 29 |
 
 ## Improve this data
 
@@ -85,4 +70,4 @@ Install metadata for wego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:37:58Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T05:59:37Z._
