@@ -48,18 +48,33 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 5 · **Merged PRs**: 45 · **Open PRs**: 4 · **Closed issues**: 125 · **Open issues**: 12 · **Commits**: 198
+- **Releases**: 5 · **Merged PRs**: 45 · **Open PRs**: 6 · **Closed issues**: 125 · **Open issues**: 12 · **Commits**: 198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-09-02 | 0 | 1 | 2 | 0 | 2 | 5 |
-| 90d | 2026-08-03 | 0 | 1 | 2 | 0 | 2 | 5 |
-| last180d | 2026-05-05 | 0 | 3 | 2 | 1 | 4 | 5 |
-| 360d | 2025-11-06 | 1 | 19 | 2 | 1 | 6 | 28 |
-| last720d | 2024-11-11 | 1 | 22 | 4 | 5 | 6 | 29 |
+| 30d | 2026-10-03 | 0 | 0 | 4 | 0 | 1 | 0 |
+| last60d | 2026-09-03 | 0 | 1 | 4 | 0 | 2 | 5 |
+| 90d | 2026-08-04 | 0 | 1 | 4 | 0 | 2 | 5 |
+| last180d | 2026-05-06 | 0 | 3 | 4 | 1 | 4 | 5 |
+| 360d | 2025-11-07 | 1 | 19 | 4 | 1 | 6 | 28 |
+| last720d | 2024-11-12 | 1 | 22 | 6 | 5 | 6 | 29 |
+
+## Distribution status
+
+Reported by **47** distros on [repology.org](https://repology.org/project/wego). **27** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `2.4` | ✅ latest |
+| Debian 14 | `2.4` | ✅ latest |
+| Debian 13 | `2.3` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `2.3` | ⚠️ outdated |
+| Homebrew | `2.4` | ✅ latest |
+| Nix unstable | `2.4` | ✅ latest |
+| Void | `2.4` | ✅ latest |
+| Alpine edge | `2.4` | ✅ latest |
 
 ## Improve this data
 
@@ -70,4 +85,4 @@ Install metadata for wego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:59:37Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:59:43Z._
