@@ -1,30 +1,17 @@
-- repo: pureos_landing
-  subrepo: landing/main
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: wego
   binnames:
     - wego
   visiblename: wego
-  version: "2.3"
-  origversion: 2.3-2
-  status: outdated
+  version: "2.4"
+  origversion: 2.4-2
+  status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
     - pkern@debian.org
   categories:
-    - utils
-- repo: alpine_3_19
-  subrepo: community
-  srcname: wego
-  binname: wego
-  visiblename: wego
-  version: "2.2"
-  origversion: 2.2-r3
-  status: outdated
-  summary: A weather app for the terminal
-  maintainers:
-    - omni+alpine@hack.org
-  licenses:
-    - ISC
+    - misc
 - repo: alpine_3_20
   subrepo: community
   srcname: wego
@@ -45,6 +32,61 @@
   visiblename: wego
   version: "2.3"
   origversion: 2.3-r5
+  status: outdated
+  summary: A weather app for the terminal
+  maintainers:
+    - omni+alpine@hack.org
+  licenses:
+    - ISC
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: wego
+  binnames:
+    - wego
+  visiblename: wego
+  version: "2.3"
+  origversion: 2.3-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - pkern@debian.org
+  categories:
+    - utils
+- repo: raspbian_stable
+  subrepo: main
+  srcname: wego
+  binnames:
+    - wego
+  visiblename: wego
+  version: "2.3"
+  origversion: 2.3-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - pkern@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: wego
+  binnames:
+    - wego
+  visiblename: wego
+  version: "2.4"
+  origversion: 2.4-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - pkern@debian.org
+  categories:
+    - misc
+- repo: alpine_3_19
+  subrepo: community
+  srcname: wego
+  binname: wego
+  visiblename: wego
+  version: "2.2"
+  origversion: 2.2-r3
   status: outdated
   summary: A weather app for the terminal
   maintainers:
@@ -192,48 +234,6 @@
   version: "2.3"
   origversion: 2.3-2
   status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - pkern@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: wego
-  binnames:
-    - wego
-  visiblename: wego
-  version: "2.4"
-  origversion: 2.4-2
-  status: newest
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - pkern@debian.org
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: wego
-  binnames:
-    - wego
-  visiblename: wego
-  version: "2.3"
-  origversion: 2.3-2
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - pkern@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: wego
-  binnames:
-    - wego
-  visiblename: wego
-  version: "2.4"
-  origversion: 2.4-2
-  status: newest
   maintainers:
     - team+pkg-go@tracker.debian.org
     - pkern@debian.org
@@ -399,7 +399,7 @@
   licenses:
     - ISC
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: wego
   binnames:
     - wego
@@ -413,7 +413,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: wego
   binnames:
     - wego
@@ -574,6 +574,20 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: wego
+  binnames:
+    - wego
+  visiblename: wego
+  version: "2.4"
+  origversion: 2.4-2
+  status: newest
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - pkern@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: wego
   binnames:
     - wego
