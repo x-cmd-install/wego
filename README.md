@@ -54,27 +54,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 4 | 0 | 2 | 0 |
-| 90d | 2026-08-29 | 0 | 1 | 4 | 0 | 2 | 0 |
-| last180d | 2026-05-31 | 0 | 3 | 4 | 0 | 3 | 0 |
-| 360d | 2025-12-02 | 1 | 19 | 4 | 1 | 6 | 0 |
-| last720d | 2024-12-07 | 1 | 22 | 6 | 4 | 6 | 29 |
-
-## Distribution status
-
-Reported by **48** distros on [repology.org](https://repology.org/project/wego). **28** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.4` | ✅ latest |
-| Debian 14 | `2.4` | ✅ latest |
-| Debian 13 | `2.3` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.3` | ⚠️ outdated |
-| Homebrew | `2.4` | ✅ latest |
-| Nix unstable | `2.4` | ✅ latest |
-| Void | `2.4` | ✅ latest |
-| Alpine edge | `2.4` | ✅ latest |
+| 30d | 2026-10-29 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 4 | 0 | 1 | 0 |
+| 90d | 2026-08-30 | 0 | 1 | 4 | 0 | 2 | 5 |
+| last180d | 2026-06-01 | 0 | 3 | 4 | 0 | 3 | 5 |
+| 360d | 2025-12-03 | 1 | 19 | 4 | 1 | 6 | 28 |
+| last720d | 2024-12-08 | 1 | 22 | 6 | 4 | 6 | 29 |
 
 ## Improve this data
 
@@ -85,4 +70,4 @@ Install metadata for wego lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:40:29Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:44:04Z._
